@@ -1,0 +1,21 @@
+{
+  "name": "pluto_buildings",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Combines the New York DOITT CityGML data set with the PLUTO data file",
+  "main": "index.js",
+  "author": "Michel Kraemer",
+  "dependencies": {
+    "@turf/turf": "^5.1.6",
+    "csv-parse": "^4.12.0",
+    "dedent": "^0.7.0",
+    "geokdbush": "^1.1.0",
+    "indent-string": "^4.0.0",
+    "kdbush": "^3.0.0",
+    "lodash": "^4.17.20",
+    "node-expat": "^2.3.18",
+    "proj4": "^2.6.2",
+    "titlecase": "^1.1.3",
+    "yargs": "^15.4.1"
+  }
+}
