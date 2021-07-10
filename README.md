@@ -80,9 +80,9 @@ In order to convert a whole directory:
 
 The data set is provided free of charge. It can be used for informational purpose subject to the following conditions:
 
-A link to this repository, a link to the original source data sets from the City of New York, and this permission notice shall be included in all copies or substantial portions of the Software.
+A link to this repository, a link to the original source data sets from the City of New York, and this permission notice shall be included in all copies or substantial portions of the data set.
 
-Files are provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+Files are provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the data set or the use or other dealings in the data set.
 
 The data set is based on the the
 [NYC 3D Building Model](https://www1.nyc.gov/site/doitt/initiatives/3d-building.page)
